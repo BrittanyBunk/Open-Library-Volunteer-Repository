@@ -1,5 +1,5 @@
 # My-Open Library-files
-My personal files for the Open Library: collaboration and project idea help.
+My personal files for collaboration with the Open Library on various projects.
 
 Two reasons for its existence:
 1) it's creation was to put my files for projects I was collaborating with others on for the Open Library
