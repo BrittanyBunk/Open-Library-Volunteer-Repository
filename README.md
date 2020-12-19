@@ -1,5 +1,9 @@
 # My-OL-files
-for the Open Library
+for the Open Library.
+
+Two reasons for its existence:
+1) it's creation was to put my files for projects I was collaborating with others on for the Open Library
+2) To publish my work on projects that are in progress with the Open Library that can be a benefit to the public before the projects are done.
 
 The series folder is to form the basis for creating a series layer on the OpenLibrary due to the need for it: 
 Right now it's work and edition, but after work comes series. Later, after series would be 'universe', but that's a later step.
@@ -11,3 +15,6 @@ This helps out massively on mass-editing of the Open Library if desired.
 It's best to either create a bot to handle the errors or leave it alone. 
 Manually mass-editing's not a good idea, because it's tedious and also might make it harder to find bot errors and correct them. 
 Those errors are going to be there on purpose until fixed.
+
+About in-progress projects:
+The Open Library has difficulties working on UI/Design for their website. So the topic of most of the pre-project works will be on that: UI/web design.
