@@ -1,4 +1,4 @@
-# My-OL-files
+# My-Open Library-files
 for the Open Library.
 
 Two reasons for its existence:
