@@ -1,0 +1,31 @@
+sysinfo
+----------------
+jq - like sed for JSON data, slice and filter and map and transform structured data with the same ease that sed, awk, grep, etc.
+https://stedolan.github.io/jq/
+cd ~
+mkdir bin
+cd bin
+explorer .
+paste the file in here, and rename it to jq.exe
+this will create a directory called bin inside your home directory ( ~ ), and place the jq.exe file in there
+special directory; git bash will let you reference any .exe files in here from anywhere
+So then you'll be able to run jq from anywhere, and it will call this .exe file
+go to the home directory: cd ~
+and run jq --version
+head dumpfile.txt | cut -f5 <-rename dumpfile to the one from the OL
+- gives you the first 10 lines, but only the 5th column
+go to the folder to access it
+- use quotes if the file name has a space
+head dumpfile.txt | cut -f5 | clip
+clip - copies results onto your clipboard
+it does look like it took out the the first 2 columns
+jq website go to "try it online" https://stedolan.github.io/jq/
+paste the results into the big window where it says "JSON"
+to run, type inti the "Filter" section: [.title, .number_of_pages] | @csv
+Run the command in gitbash first
+that will get the first 10 lines of JSON
+and copy them to your clipboard
+Then paste those 10 lines into the website
+it didn't do anything when I ran head editions.txt | cut -f5
+pipe it - > editionsnewcolumns.csv
+use emeditor
