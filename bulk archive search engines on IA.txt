@@ -1,12 +1,17 @@
-generate a->zzzzz:
+Instructions for the internet archive (IA):
+
+A) generate a->zzzzz:
 1) excel: =UPPER(IF(ROW(A1)>18278,CHAR(96+INT(MOD(ROW(A1)-18279,456976)/17576)+1),"")&IF(ROW(A1)>702,CHAR(96+INT(MOD(ROW(A1)-703,17576)/676)+1),"")&IF(ROW(A1)>26,CHAR(96+INT(MOD(ROW(A1)-27,676)/26)+1),"")&CHAR(97+MOD(ROW(A1)-1,26)))
 2) ctrl+enter - fill down entire column
 3) ="https://www.ecosia.org/images?q="&cell or ="https://www.ecosia.org/images?q="&cell
 4) upload to Google drive
 5) convert to Google sheet (file -> or some tab)
 6) batch process on Internet Archive: https://archive.org/services/wayback-gsheets/
+*warning - can only process up to a little over 1M, as excel runs out of cells. That's why method B works better, as it will archive the webpages that people are most likely to visit
 
-generate from English words:
+B) generate from English words:
 1) english dict list: https://github.com/dwyl/english-words/blob/master/words.txt
 2) -> xlsx
 3-6) same as 1st method
+
+Instead of ecosia, substitute any website
