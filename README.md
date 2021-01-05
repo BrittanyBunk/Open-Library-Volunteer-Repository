@@ -1,5 +1,6 @@
-# My-Open Library-files
-My personal files for collaboration with the Open Library on various projects.
+# OL-and-IA-community
+
+Personal files from the community for collaboration with the Open Library and Internet Archive on various projects. Could be project files, tips, discussions, etc. from the community about what they know and can teach others and discuss about that isn't possible to be done in the regular capacity that the OL/IA contains.
 
 Two reasons for its existence:
 1) it's creation was to put my files for projects I was collaborating with others on for the Open Library
