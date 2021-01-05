@@ -1,2 +1,0 @@
-jq online - https://jqplay.org/
-fields list - https://openlibrary.org/type
