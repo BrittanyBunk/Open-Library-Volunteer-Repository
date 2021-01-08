@@ -1,6 +1,6 @@
 # OL-and-IA-community files
 
-Personal files from the community for collaboration with the Open Library and Internet Archive on various projects. Could be project files, tips, archived discussions, etc. from the community about what they know, did, and can teach others to create an archive of the community's work.
+Personal files from the community for collaboration with the Open Library and Internet Archive on various projects. The rest of the files are in my Google Drive (https://drive.google.com/drive/folders/1m3Kp9W9p5jNbGaGJjvIsHyHYfv9yA-53?usp=sharing, please message me for permission to add to it). Could be project files, tips, archived discussions, etc. from the community about what they know, did, and can teach others to create an archive of the community's work.
 
 Two reasons for its existence:
 1) it's creation was to put my files for projects I was collaborating with others on for the Open Library
@@ -17,5 +17,6 @@ It's best to either create a bot to handle the errors or leave it alone.
 Manually mass-editing's not a good idea, because it's tedious and also might make it harder to find bot errors and correct them. 
 Those errors are going to be there on purpose until fixed.
 
-About in-progress projects:
-The Open Library has difficulties working on UI/Design for their website. So the topic of most of the pre-project works will be on that: UI/web design.
+About in-progress projects: The Open Library has difficulties working on UI/Design for their website. So the topic of most of the pre-project works will be on that: UI/web design.
+
+To join in this repository: request an invitation.
