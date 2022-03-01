@@ -6,9 +6,10 @@ Each person gets their own folder on this repository to add their Open Library-r
 
 Anyone who needs help with something that is not getting the help they need from the Open Library organization can come here to be helped! Feel free to post under the issues tab. Warning: because this is not the official Open Library, the resources are going to be much more limited.
 
-Two reasons for its existence:
-1) it's creation was to create a centralized location for files from the community for projects contributed to on the Open Library (otherwise everyone's files are private and inaccessible to each other)
+Reasons for its existence:
+1) create a centralized location for files from the community for projects contributed to on the Open Library (otherwise everyone's files are private and inaccessible to each other)
 2) To publish work on projects that are in progress with the Open Library that can be a benefit to the public before the projects are done.
+3) to work on projects tangential and related to the Open Library but aren't for the Open Library itself, yet can be helped by it (like if others are starting their own personal library, for instance)
 
 About in-progress projects: The Open Library has difficulties working on UI/Design for their website. So the topic of most of the pre-project works will be on that: UI/web design.
 
