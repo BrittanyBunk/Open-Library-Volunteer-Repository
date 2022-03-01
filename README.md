@@ -1,4 +1,4 @@
-# Open-Library-Volunteer-Repository
+# Open Library Volunteer Repository
 
 Welcome! This is an unofficial repository for the Open Library. A repository made by volunteers, for volunteers! Here, volunteers can get the help they need from each other. The goal is to be as streamlined and open sourced as possible - a resource to keep everyone up to date with all the details in a free-flowing manner: a reference to help each other out, regardless of a person's presence!
 
